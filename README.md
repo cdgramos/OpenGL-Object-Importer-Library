@@ -26,10 +26,10 @@ humanModel = loadModel("human.obj");​
 ​
 ### Drawing funtions​
 
-// This function will draw the vertices of a loaded object. The first parmeter is the vertice point size and the second is the object.​
+// This function will draw the vertices of a loaded object. The first parameter is the vertice point size and the second is the object.​
 drawModelVertex(int , Model);​
 
-// This function only support simple faces yet. it takes as parameter object and draw it's faces.​
+// This function only support simple faces yet. It accepts as the parameter an object and draw it's faces.​
 drawModelFaces(humanModel);​
 
 ​
