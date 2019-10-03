@@ -1,4 +1,6 @@
 
+
+
 # OpenGL Object Importer Library
 
 Library to import .obj files into OpenGL scenes.
@@ -32,6 +34,8 @@ humanModel = loadModel("human.obj");
 // This function will draw the vertices of a loaded object. The first parameter is the vertice point size and the second is the object.
 
 drawModelVertex(int , Model);
+
+
 
 // This function only support simple faces yet. It accepts as the parameter an object and draw it's faces.
 
