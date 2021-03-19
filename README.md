@@ -14,7 +14,7 @@ Library to import .obj files into OpenGL scenes.
 
 ## Usage
 
-The only think required is to import the __objImporter.h__. 
+The only thing required is to import the __objImporter.h__. 
 The functions are explained below are there is also a sample program __example.c__.
 
 ### Object declaration
