@@ -14,12 +14,12 @@ This library is designed to import .obj files into OpenGL scenes.
 To use this library, simply import the `objImporter.h` header file. 
 The functions are explained below, and there is also a sample program in `example.c`.
 
-The only thing required is to import the __objImporter.h__. 
-The functions are explained below are there is also a sample program __example.c__.
 
 ### Object declaration
 
+```c
 Model humanModel;
+```
 
 
 ### Object loading
